@@ -9,7 +9,411 @@
     <bookmark url="file://$PROJECT_DIR$/web/src/main/java/com/lsc/listenr/AppStartUpListener.java" line="23" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bd5f2c7-dd4b-4d44-a8f1-5e31de968216" name="Default Changelist" comment="" />
+    <list default="true" id="0bd5f2c7-dd4b-4d44-a8f1-5e31de968216" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c1b1ec7b-bd45-44e5-8f89-426e044ba427.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/classes/com/lsc/api/AdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/classes/com/lsc/constant/AppEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/bean-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAccountTypeCert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAccountTypeCertExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAccountTypeCertExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAccountTypeCertExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAccountTypeCertExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdmin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdminExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdminExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdminExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdminExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdminRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdminRoleExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdminRoleExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdminRoleExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdminRoleExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdvertisement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdvertisementExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdvertisementExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdvertisementExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TAdvertisementExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TCert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TCertExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TCertExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TCertExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TCertExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TDictionaryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TDictionaryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TDictionaryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TDictionaryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMember.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberAddress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberAddressExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberAddressExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberAddressExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberAddressExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberCert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberCertExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberCertExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberCertExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberCertExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberProjectFollow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberProjectFollowExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberProjectFollowExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberProjectFollowExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMemberProjectFollowExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMenuExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMenuExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMenuExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMenuExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMessageExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMessageExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMessageExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TMessageExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TOrderExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TOrderExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TOrderExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TOrderExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TParamExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TParamExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TParamExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TParamExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionMenuExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionMenuExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionMenuExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionMenuExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionResourceExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionResourceExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionResourceExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TPermissionResourceExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectTagExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectTagExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectTagExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectTagExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectTypeExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectTypeExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectTypeExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TProjectTypeExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TResourceExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TResourceExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TResourceExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TResourceExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TReturn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TReturnExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TReturnExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TReturnExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TReturnExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TRoleExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TRoleExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TRoleExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TRoleExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TRolePermission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TRolePermissionExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TRolePermissionExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TRolePermissionExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TRolePermissionExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTagExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTagExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTagExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTagExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTransaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTransactionExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTransactionExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTransactionExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTransactionExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTypeExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTypeExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTypeExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/classes/com/lsc/bean/TTypeExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bean/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/target/common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TAccountTypeCertMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TAdminMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TAdminRoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TAdvertisementMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TCertMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TDictionaryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TMemberAddressMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TMemberCertMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TMemberMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TMemberProjectFollowMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TMenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TMessageMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TOrderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TParamMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TPermissionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TPermissionMenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TPermissionResourceMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TProjectMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TProjectTagMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TProjectTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TResourceMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TReturnMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TRoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TRolePermissionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TTagMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TTransactionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/mapper/TTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/servoce/impl/AdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/com/lsc/utils/AppUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TAccountTypeCertMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TAdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TAdminRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TAdvertisementMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TCertMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TDictionaryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TMemberAddressMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TMemberCertMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TMemberMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TMemberProjectFollowMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TMessageMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TOrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TParamMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TPermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TPermissionMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TPermissionResourceMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TProjectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TProjectTagMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TProjectTypeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TResourceMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TReturnMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TRolePermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TTagMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TTransactionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mapper/TTypeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/spring-beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/classes/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/manager-impl-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/test-classes/AdminServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/test-classes/test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/test-classes/test02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/test-classes/test03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-impl/target/test-classes/test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/classes/com/lsc/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/classes/com/lsc/controller/permission/AdminCrudController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/classes/com/lsc/controller/permission/PermissionPageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/classes/com/lsc/listenr/AppStartUpListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/classes/com/lsc/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/classes/com/lsc/controller/permission/AdminCrudController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/classes/com/lsc/controller/permission/PermissionPageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/classes/com/lsc/listenr/AppStartUpListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/activation-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/bean-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/commons-email-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/commons-math3-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/commons-pool2-2.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/druid-1.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/javax.mail-1.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/jedis-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/joda-time-2.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/jsqlparser-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/log4j-over-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/manager-impl-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/mybatis-generator-core-1.3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.42.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-portlet-4.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/member.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/permission/menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/permission/permission.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/permission/role.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/permission/user-add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/permission/user-edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/permission/user-role.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/permission/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/serviceauth/auth_adv.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/serviceauth/auth_cert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/serviceauth/auth_project.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/servicemanage/advertisement.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/servicemanage/cert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/servicemanage/message.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/servicemanage/process.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/servicemanage/project_type.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/servicemanage/tag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/views/servicemanage/type.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/include/common-js.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/include/side-bar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/include/top-nav.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/reg.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/css/carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/css/doc.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/fontawesome4.2/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/fontawesome4.2/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/fontawesome4.2/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/fontawesome4.2/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/fontawesome4.2/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/carousel-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/carousel-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/carousel-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/p3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/product-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/product-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/product-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/product-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/product-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/product-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/product-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/product-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/product-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/product_detail_body.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/product_detail_head.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/services-box1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/services-box2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/services-box3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/img/services-box4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/jquery/jquery-2.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/jquery/jquery-form.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/jquery/jquery.pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/script/back-to-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/script/docs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/script/echarts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/diy/1_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/diy/1_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/diy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/diy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/diy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/diy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/diy/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/diy/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/diy/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/diy/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/zTreeStandard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/img/zTreeStandard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/jquery.ztree.all-3.5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/target/web-1.0-SNAPSHOT/static/ztree/zTreeStyle.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/bean/target/" />
@@ -81,8 +485,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/src/main/java/com/lsc/controller/permission/AdminCrudController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="76" column="5" lean-forward="true" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+            <state relative-caret-position="371">
+              <caret line="72" column="33" lean-forward="true" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -180,6 +584,9 @@
     <dirStrings>
       <dir>F:\com\zhongchou\bean\src\main\java\com\lsc\bean</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/api/src/main/java/com/lsc/constant/AppEnum.java" root0="SKIP_INSPECTION" />
@@ -307,6 +714,7 @@
     <option name="width" value="1007" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -845,8 +1253,16 @@
       <workItem from="1587829740203" duration="1528000" />
       <workItem from="1587893620628" duration="1706000" />
       <workItem from="1587906008413" duration="5086000" />
-      <workItem from="1588001183197" duration="77000" />
+      <workItem from="1588001183197" duration="558000" />
     </task>
+    <task id="LOCAL-00001" summary="练习项目">
+      <created>1588001729915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588001729915</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -882,7 +1298,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83541000" />
+    <option name="totallyTimeSpent" value="84022000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -896,7 +1312,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49942195" visible="true" weight="0.41577253" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49942195" visible="true" weight="0.41577253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -911,7 +1327,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292978" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3292978" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3287037" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3292978" />
@@ -935,6 +1351,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="练习项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习项目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1305,8 +1725,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/java/com/lsc/controller/permission/AdminCrudController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="76" column="5" lean-forward="true" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+        <state relative-caret-position="371">
+          <caret line="72" column="33" lean-forward="true" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1378,7 +1798,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>web</last-edited>
+          <last-edited>zhongchou</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
