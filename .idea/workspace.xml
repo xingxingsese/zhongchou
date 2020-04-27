@@ -9,9 +9,7 @@
     <bookmark url="file://$PROJECT_DIR$/web/src/main/java/com/lsc/listenr/AppStartUpListener.java" line="23" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bd5f2c7-dd4b-4d44-a8f1-5e31de968216" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0bd5f2c7-dd4b-4d44-a8f1-5e31de968216" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/bean/target/" />
@@ -185,6 +183,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dome" />
+      </map>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/api/src/main/java/com/lsc/constant/AppEnum.java" root0="SKIP_INSPECTION" />
@@ -851,7 +854,7 @@
       <workItem from="1587829740203" duration="1528000" />
       <workItem from="1587893620628" duration="1706000" />
       <workItem from="1587906008413" duration="5086000" />
-      <workItem from="1588001183197" duration="1297000" />
+      <workItem from="1588001183197" duration="1546000" />
     </task>
     <task id="LOCAL-00001" summary="练习项目">
       <created>1588001729915</created>
@@ -867,7 +870,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588001959924</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="练习项目">
+      <created>1588002674181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588002674181</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -903,7 +913,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84761000" />
+    <option name="totallyTimeSpent" value="85010000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -917,7 +927,7 @@
   <component name="ToolWindowManager">
     <frame x="907" y="0" width="1007" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49942195" visible="true" weight="0.5860962" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49942195" visible="true" weight="0.4106952" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -932,7 +942,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292978" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33212122" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.56" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3292978" />
