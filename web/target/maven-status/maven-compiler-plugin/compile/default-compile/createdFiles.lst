@@ -1,0 +1,3 @@
+com\lsc\controller\LoginController.class
+com\lsc\controller\permission\PermissionPageController.class
+com\lsc\listenr\AppStartUpListener.class
